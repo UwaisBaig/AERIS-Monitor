@@ -239,6 +239,6 @@ and [product data](https://www.winsen-sensor.com/product/mq135.html).
 
 ## BUILDER
 Shaheer Tahir 
-Uwais Baig 
+M.Uwais Baig 
 Hozaifa Ali
 
